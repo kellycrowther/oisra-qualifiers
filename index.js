@@ -32,10 +32,10 @@ function findKidsWithThreeRaces(csvData) {
   csvData.forEach((row, rowIndex) => {
     let rowCount = 0;
     csvData.forEach((item, itemIndex) => {
-      if (item.fullName === row.fullName) {
+      if (item.fullName.toLowerCase() === row.fullName.toLowerCase()) {
         rowCount = rowCount + 1;
       }
-      if (rowCount === 3) {
+      if (rowCount >= 3) {
         kidsWithThreeRaces.push(row);
       }
       if (itemIndex + 1 === csvData.length) {
