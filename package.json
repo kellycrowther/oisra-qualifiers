@@ -1,0 +1,16 @@
+{
+  "name": "oisra-qualifiers",
+  "version": "1.0.0",
+  "description": "Utility to find the OISRA Nordic State Meet qualifying athletes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly Crowther",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.6.5",
+    "csv-writer": "^1.5.0",
+    "lodash": "^4.17.15"
+  }
+}
