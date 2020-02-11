@@ -1,2 +1,213 @@
-firstName,lastName,fullName,school
-Kelly,Crowther,Kelly Crowther,Sisters
+firstName,lastName,fullName,school,Gender
+COLE,SHOCKEY,cole shockey,MT VIEW,M
+LEVI,PICHARDO,levi pichardo,MT VIEW,M
+DEREK,MARTIN,derek martin,MT VIEW,M
+CODY,SANTAGUIDA,cody santaguida,MT VIEW,M
+GABRIEL,GONZALEZ,gabriel gonzalez,MT VIEW,M
+CHASE,SCHERMER,chase schermer,MT VIEW,M
+NATHAN,ROBBINS,nathan robbins,MT VIEW,M
+JACK,CREECH,jack creech,MT VIEW,M
+REID,ALTMAN,reid altman,MT VIEW,M
+FORREST,HASSELL,forrest hassell,MT VIEW,M
+ADRIAN,GONZALEZ,adrian gonzalez,MT VIEW,M
+KAI,LARSON,kai larson,ASHLAND,M
+ZACH,BERGLER,zach bergler,MT VIEW,M
+KYLE,MCGARRY,kyle mcgarry,MT VIEW,M
+JESSE,ORDONEZ,jesse ordonez,LAPINE,M
+BENJAMIN,CLAWSON,benjamin clawson,MT VIEW,M
+JOEL,TRANBY,joel tranby,MT VIEW,M
+WESTON,SHAFFER,weston shaffer,MT VIEW,M
+PAUL,SHILLING,paul shilling,MT VIEW,M
+JERONIMO,FUENTES,jeronimo fuentes,,M
+RYDER,MAUCK,ryder mauck,MT VIEW,M
+TRISTAN,PIPER,tristan piper,MT VIEW,M
+AIDAN,CROWLEY,aidan crowley,LAPINE,M
+LOGAN,FOLEY,logan foley,MT VIEW,M
+NATHANIEL,EVERLY,nathaniel everly,LAPINE,M
+CARSON,PHILLIPS,carson phillips,MT VIEW,M
+ISAAC,KAHN,isaac kahn,ASHLAND,M
+VICTOR,DOSSIN,victor dossin,,M
+JACOB,LEHR,jacob lehr,MT VIEW,M
+MAKLAIN,ERICKSON,maklain erickson,MT VIEW,M
+IRIS,WELSH,iris welsh,MT VIEW,F
+BROOKE,CUMMINGS,brooke cummings,MT VIEW,F
+HANNAH,TRANBY,hannah tranby,MT VIEW,F
+BAILEY,KAMPERMAN,bailey kamperman,MT VIEW,F
+KINSEY,OLARREA,kinsey olarrea,MT VIEW,F
+EMILY,MOORE,emily moore,MT VIEW,F
+HAI XING,LEWIS,hai xing lewis,MT VIEW,F
+OLIVIA,CARPENTER,olivia carpenter,MT VIEW,F
+MARIELLA,FERRIS,mariella ferris,ASHLAND,F
+JULIA,PETERSON,julia peterson,MT VIEW,F
+ANNIKA,GOFF,annika goff,MT VIEW,F
+ALLIE,CHARON,allie charon,MT VIEW,F
+ZEA,MINDLING WERLING,zea mindling werling,ASHLAND,F
+SHELLA MAY,CRAFTON,shella may crafton,MT VIEW,F
+HALEY,BROADDUS,haley broaddus,MT VIEW,F
+ELLA,MORRIS,ella morris,MT VIEW,F
+CHLOE,SKYE,chloe skye,ASHLAND,F
+FLORENCE,JONES,florence jones,LAPINE,F
+REBEKAH,HEWLETT,rebekah hewlett,MT VIEW,F
+JOANNA,ROJAS,joanna rojas,ASHLAND,F
+CLARE,TIMMONS,clare timmons,LAPINE,F
+PAUL,MEEUWSEN,paul meeuwsen,LAPINE,M
+CONNAR,ROBERTS,connar roberts,LAPINE,M
+PEYTEN,ROBERTS,peyten roberts,MT VIEW,F
+PIPER,WIDMER,piper widmer,PROV,F
+RYAN,FIKE,ryan fike,PROV,F
+KIRA,DENNISON,kira dennison,PROV,F
+RUNE,MOWRY,rune mowry,LAPINE,F
+THEODORE,JONES,theodore jones,PROV,F
+KYLE,NEWTON,kyle newton,LAPINE,F
+SARAH,KILROY,sarah kilroy,RPA,F
+GRETA,LEITHEISER,greta leitheiser,SUMMIT,F
+KATELYN,COSTELLO,katelyn costello,RPA,F
+KIRA,GILBERT,kira gilbert,BEND,F
+JORUN,DOWNING,jorun downing,SUMMIT,F
+ASHLEY,BOONE,ashley boone,SUMMIT,F
+RUBY,GATES,ruby gates,RV REDMOND,F
+ELLE,ST CLAIR,elle st clair,SUMMIT,F
+ADRIAUNA,PENDERGRASS,adriauna pendergrass,RPA,F
+SCOUT,GESUALE,scout gesuale,BEND,F
+ALLYSON,BOMBER,allyson bomber,CORVALLIS,F
+KATE,HARDY,kate hardy,RV REDMOND,F
+SIERA,CRAWFORD,siera crawford,BEND,F
+SOPHIE,KADEN,sophie kaden,HRV,F
+ISABELLA,MOORE,isabella moore,SUMMIT,F
+MARTHA,SCHWARZ,martha schwarz,BEND,F
+JOSEPHINE,TRACEWELL,josephine tracewell,RV REDMOND,F
+GG,JOHNSON,gg johnson,BEND,F
+NATALIE,WALSH,natalie walsh,SUMMIT,F
+CAROLINE,SHERWOOD,caroline sherwood,BEND,F
+LUCIA,DAPRANO,lucia daprano,SUMMIT,F
+JOSEPHINE,STENN,josephine stenn,HRV,F
+JAYDA,CRAWFORD,jayda crawford,BEND,F
+EMMA,KELLY,emma kelly,HRV,F
+SAVANNA,PITMAN,savanna pitman,RV REDMOND,F
+ATHENA,PETERSON,athena peterson,BEND,F
+PAYTON,MCCARTHY,payton mccarthy,SUMMIT,F
+LYRIC,EMMONS,lyric emmons,HRV,F
+GILLIE,BIRD,gillie bird,SUMMIT,F
+HANNAH,DENNIS,hannah dennis,BEND,F
+EMMA,NEVAROV,emma nevarov,SUMMIT,F
+LAURYN,DURYEE,lauryn duryee,REDMOND,F
+ELLA,WHITAKER,ella whitaker,SMA,F
+EMILY,EICHELBERGER,emily eichelberger,SUMMIT,F
+SAGE,YOUNG,sage young,RV REDMOND,F
+MIRA,OLSON,mira olson,HRV,F
+CHANTEL,RUMENAPP,chantel rumenapp,RV REDMOND,F
+JULIANA,SMITH,juliana smith,SMA,F
+NICOLE,BURRUS,nicole burrus,BEND,F
+STELLA,WILLIAMS,stella williams,SUMMIT,F
+NAOMI,BURKETT,naomi burkett,SUMMIT,F
+SOPHIE,DORN,sophie dorn,SMA,F
+LUCY,HENNESSY,lucy hennessy,HRV,F
+CHARLENE,REDDER,charlene redder,SMA,F
+ERIKA,WELLENSTEIN,erika wellenstein,HRV,F
+AMELIA,LEONARD,amelia leonard,SMA,F
+AURORA,ELDRIDGE,aurora eldridge,REDMOND,F
+KAMRYN,DOYLE,kamryn doyle,BEND,F
+RILEY,JOHNSON,riley johnson,RPA,F
+KATEN,RENCH,katen rench,HRV,F
+CELIA,ACOSTA,celia acosta,HRV,F
+SOPHIE,FISCHER,sophie fischer,SUMMIT,F
+LILLIJANE,CAVENAUGH,lillijane cavenaugh,SMA,F
+POPPY,MILLER,poppy miller,HRV,F
+HESTER,FRANKLIN,hester franklin,SMA,F
+ELLA,TAFT,ella taft,SUMMIT,F
+GRACE,GAINES,grace gaines,BEND,F
+MEGAN,LASALA,megan lasala,SUMMIT,F
+SAMANTHA,BEDNORZ,samantha bednorz,BEND,F
+SYDNEY,DEDRICK,sydney dedrick,BEND,F
+TEGAN,BOLAND,tegan boland,SMA,F
+QUINCEY,SMITH,quincey smith,BEND,F
+ALIA,SHAFRAN,alia shafran,SMA,F
+THEA,BREVARD,thea brevard,HRV,F
+KATE,PAULY,kate pauly,HRV,F
+VIVIAN,OLSON,vivian olson,HRV,F
+NATALIE,GODKIN,natalie godkin,HRV,F
+SYDNEY,OLSON,sydney olson,BEND,F
+LILY,BAKKOM,lily bakkom,CORVALLIS,F
+IVA,BORRELLO,iva borrello,SMA,F
+CALLA,KING,calla king,HRV,F
+SKYLER,SUNDVALL,skyler sundvall,BEND,F
+SYDNEY,KADIN,sydney kadin,BEND,F
+ASHLEY,MICCOLIS,ashley miccolis,BEND,F
+OLIVIA,COMBE,olivia combe,SMA,F
+MAYA,GERSH,maya gersh,SMA,F
+CLARA,COLEMAN,clara coleman,SMA,F
+KATE,MIDDLETON,kate middleton,,F
+HANNAH,MIDDLETON,hannah middleton,,F
+FINN,HANSON,finn hanson,,F
+JERRY BOND,NYE,jerry bond nye,BEND,M
+GARRETT,JANES,garrett janes,RV REDMOND,M
+SOREN,NYQUIST,soren nyquist,BEND,M
+ETHAN,BARKER,ethan barker,SUMMIT,M
+WILLIAM,ADAMS,william adams,SUMMIT,M
+JACOB,CHRISTENSEN,jacob christensen,SUMMIT,M
+BAILEY,MARTIN,bailey martin,SUMMIT,M
+GATTLIN,JANES,gattlin janes,RV REDMOND,M
+TREVOR,RICKER,trevor ricker,BEND,M
+ETHAN,PETERS,ethan peters,RV REDMOND,M
+AIDAN,WHITELAW,aidan whitelaw,SUMMIT,M
+JACK,DEAVER,jack deaver,SUMMIT,M
+ALEXANDER,FRASER,alexander fraser,SUMMIT,M
+KADEN,MOORE,kaden moore,BEND,M
+WILLIAM,FINNEY-JORDET,william finney-jordet,RPA,M
+CHARLIE,MCCABE,charlie mccabe,SUMMIT,M
+COOPER,DAY,cooper day,SUMMIT,M
+ZACHARY,CARNEY,zachary carney,SUMMIT,M
+CAIDEN,HARTRICH,caiden hartrich,SUMMIT,M
+ROWAN,MCDOLE,rowan mcdole,BEND,M
+ALEX,SHAFFER,alex shaffer,SUMMIT,M
+JAZZ,HONAKER,jazz honaker,BEND,M
+RAYMOND,LINK,raymond link,BEND,M
+SPENCER,MIDDLETON,spencer middleton,CORVALLIS,M
+SAMUEL,ELDRIDGE,samuel eldridge,REDMOND,M
+SAM,HANSON,sam hanson,CORVALLIS,M
+CLEMENT,LINK,clement link,BEND,M
+DASAN,SIMMONS,dasan simmons,SUMMIT,M
+ETHAN,FOWLER,ethan fowler,HRV,M
+SOREN,STANCLIFF,soren stancliff,RV REDMOND,M
+SEAN,ARPAG,sean arpag,HRV,M
+JESSE,COOPER,jesse cooper,BEND,M
+MATTEO,VECCHI,matteo vecchi,REDMOND,M
+AUSTIN,ALLEN,austin allen,RV REDMOND,M
+RYAN,DOERING,ryan doering,SUMMIT,M
+SEAN,COUNIHAN,sean counihan,HRV,M
+BRAD,ALEXANDER,brad alexander,RV REDMOND,M
+MICAH,PIETROWSKI,micah pietrowski,BEND,M
+ZACHARY,DAINES,zachary daines,SUMMIT,M
+CARSON,BITNER,carson bitner,SUMMIT,M
+ELLIS,KLINE,ellis kline,CORVALLIS,M
+NICOLAS,ENGEL,nicolas engel,BEND,M
+DAKOTA,WEDDING,dakota wedding,REDMOND,M
+SETH,MICHELSEN,seth michelsen,BEND,M
+AIDEN,CANTRELL,aiden cantrell,HRV,M
+DHRUV,PATEL,dhruv patel,RV REDMOND,M
+GAVIN,KING,gavin king,SUMMIT,M
+JADE,EMMONS,jade emmons,HRV,M
+SILAS,CARROLL,silas carroll,SUMMIT,M
+BEN,MARSDEN,ben marsden,HRV,M
+CHRISTOPHER,SACHSE,christopher sachse,BEND,M
+COLE,CANTRELL,cole cantrell,HRV,M
+KADIN,MITCHELL,kadin mitchell,HRV,M
+CAYDEN,TUSCANO,cayden tuscano,SUMMIT,M
+JOSHUA,HUMANN,joshua humann,HRV,M
+SAMUEL,BIEDSCHEID,samuel biedscheid,BEND,M
+PARKER,GARLAND,parker garland,SUMMIT,M
+KEVIN,RENNER,kevin renner,BEND,M
+HENRY,MICEK,henry micek,,M
+Kira,Mahaffy,kira mahaffy,SMA,F
+Lydia,Gerald,lydia gerald,HRV,F
+Anne Marie,Covlin,anne marie covlin,BEND,F
+Rizal,Deingruber,rizal deingruber,SMA,F
+Tate,Hixson,tate hixson,HRV,F
+Hannah,Lence,hannah lence,SUMMIT,F
+Piper,Lee,piper lee,SMA,F
+Quinn,Carloss,quinn carloss,HRV,F
+Ben,Lange,ben lange,SUMMIT,M
+Evan,Eby,evan eby,RV REDMOND,M
+Michael,Davies,michael davies,SUMMIT,M
+Oliver,Covlin,oliver covlin,BEND,M
+Gavin,Ullrich,gavin ullrich,HRV,M

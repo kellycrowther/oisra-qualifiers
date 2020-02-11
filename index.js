@@ -8,7 +8,7 @@ const csvData = [];
 init();
 
 function init() {
-  fs.createReadStream("./test-data.csv")
+  fs.createReadStream("./2020-qualifiers.csv")
     .pipe(
       parse({
         delimiter: ",",
@@ -36,6 +36,7 @@ function findKidsWithThreeRaces(csvData) {
         rowCount = rowCount + 1;
       }
       if (rowCount >= 3) {
+        row.fullName = row.fullName.toLowerCase();
         kidsWithThreeRaces.push(row);
       }
       if (itemIndex + 1 === csvData.length) {
@@ -55,7 +56,8 @@ function writeQualifiersToCSV(qualifiedKids) {
       { id: "firstName", title: "firstName" },
       { id: "lastName", title: "lastName" },
       { id: "fullName", title: "fullName" },
-      { id: "school", title: "school" }
+      { id: "school", title: "school" },
+      { id: "Gender", title: "Gender" }
     ]
   });
 
